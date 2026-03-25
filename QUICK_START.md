@@ -6,6 +6,8 @@ All 12 tasks have been completed successfully. The enhanced dashboard with cart 
 
 ## 🚀 Starting the Application
 
+For Hostinger production deployment, see [`deployment.md`](./deployment.md).
+
 ### 1. Start Backend Server
 ```bash
 cd server
